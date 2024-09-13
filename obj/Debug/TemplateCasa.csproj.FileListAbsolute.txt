@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\bin\Debug\TemplateCasa.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\bin\Debug\TemplateCasa.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\bin\Debug\TemplateCasa.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\obj\Debug\TemplateCasa.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\obj\Debug\TemplateCasa.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\obj\Debug\TemplateCasa.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\TemplatePatron\TemplateCasa\obj\Debug\TemplateCasa.pdb
